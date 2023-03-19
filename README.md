@@ -3,9 +3,9 @@ a library for parsing resume .docx documents and transforming them into filled-o
 
 ## backlog
 - [X] develop section enums to figure out if a paragraph is a section or not
-- [ ] parse sections into subobjects
+- [X] parse sections into subobjects
 - [ ] generate "work experience" object - separate company, timespan and activities
-- [ ] generate "resume" object
+- [X] generate "resume" object
 ```json
     "resume": {
         "personal-information": {...},
