@@ -11,3 +11,4 @@ class Constants:
         extra_courses: str = 'Cursos e palestras'
         work_experience: str = 'Trajetória Profissional'
         previous_experience: str = 'Experiências anteriores'
+        tech: str = 'Tecnologias e ferramentas'
