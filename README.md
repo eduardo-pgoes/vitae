@@ -1,5 +1,5 @@
 # vitae
-a library for parsing resume .docx documents and transforming them filled-out LinkedIn profiles. 
+a library for parsing resume .docx documents and transforming them into filled-out LinkedIn profiles. 
 
 ## backlog
 - [X] develop section enums to figure out if a paragraph is a section or not
