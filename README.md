@@ -8,7 +8,7 @@ a library for parsing resume .docx documents and transforming them filled-out Li
 - [ ] generate "resume" object
 ```json
     "resume": {
-        "personal-information": { ... },
+        "personal-information": {...},
         "work-experience": [ {...} ],
     }
 ``` 
